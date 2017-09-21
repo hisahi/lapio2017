@@ -4,5 +4,4 @@ c3
 d4
 e5
 viikko 5
-tehtävä viikko 5 numero 39
-
+äöäöäöäö
